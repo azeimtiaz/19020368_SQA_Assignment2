@@ -1,0 +1,167 @@
+2021-09-08 04:10:59,404  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 04:11:00,225  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 04:11:19,570  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 04:11:20,334  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:06,057  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 08:53:06,958  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:24,330  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 08:53:25,237  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:22:47,345  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:28:26,216  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:29:22,466 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:29:22,766 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:29:22,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:40:12,916  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:40:13,214  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:40:30,253  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:40:30,530  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:41:56,677  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:41:56,922  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:42:13,645  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:42:13,868  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:45:31,363  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:45:31,569  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:45:45,805  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:45:45,980  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:50:18,999 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:50:19,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:50:19,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:50:19,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:50:19,006 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:50:19,185 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:50:19,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:50:19,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:50:19,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:50:19,187 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:53:32,658  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:59:19,574  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:01:51,106  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 11:01:51,384  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:02:11,222  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 11:02:11,492  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:04:28,851  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:06:02,039  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 11:07:02,504 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-11-03 20:14:01,986  INFO [main] LoginPage:77 - User name enterd as admin
+2023-11-03 20:14:03,917  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:14:52,544  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-11-03 20:14:52,802  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:17:19,597  INFO [main] LoginPage:77 - User name enterd as gallagesanka03@gmail.com
+2023-11-03 20:17:19,883  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:17:32,203  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-11-03 20:17:32,460  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 21:06:15,047  INFO [main] LoginPage:77 - User name enterd as gallagesanka03@gmail.com
+2023-11-03 21:06:15,334  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 21:07:02,420  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-11-03 21:07:02,810  INFO [main] HomePage:45 - Validated Logo
+2023-11-04 02:12:34,336  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:15:06,711  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:16:49,580  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:16:49,750  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 02:16:49,930  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 02:16:50,046  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 02:17:44,840  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:17:45,049  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 02:17:45,251  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 02:17:45,370  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 02:18:47,842  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:18:48,019  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 02:18:48,192  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 02:18:48,296  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 02:20:57,042  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 02:20:57,230  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 02:20:57,403  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 02:20:57,512  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 03:13:15,887  INFO [main] UsersPage:46 - First name entered as Yadeesha
+2023-11-04 03:13:16,075  INFO [main] UsersPage:53 - First name entered as Weerasinghe
+2023-11-04 03:13:16,269  INFO [main] UsersPage:60 - Email entered as yadeesha@gmail.com
+2023-11-04 03:13:16,395  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 13:09:37,231  INFO [main] UsersPage:46 - First name entered as Fathima
+2023-11-04 13:09:37,403  INFO [main] UsersPage:53 - First name entered as Azma
+2023-11-04 13:09:37,604  INFO [main] UsersPage:60 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 13:09:37,702  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 17:49:41,463  INFO [main] UsersPage:46 - First name entered as Fathima
+2023-11-04 17:49:41,594  INFO [main] UsersPage:53 - First name entered as Azma
+2023-11-04 17:49:41,746  INFO [main] UsersPage:60 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 17:49:41,805  INFO [main] UsersPage:65 - New user create button click!
+2023-11-04 18:06:22,831  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:06:22,995  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:06:23,156  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:06:23,213  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:06:23,245 FATAL [main] ActitimeStepDefinitions:102 - User creation failed
+2023-11-04 18:10:42,944  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:10:43,105  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:10:43,249  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:10:43,300  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:10:44,458  INFO [main] ActitimeStepDefinitions:100 - User created successfully with first name Fathima and last name Azma
+2023-11-04 18:27:00,273  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:27:00,490  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:27:00,662  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:27:00,721  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:27:01,944 FATAL [main] ActitimeStepDefinitions:102 - Failed to create user :(
+2023-11-04 18:28:02,699  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:28:02,819  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:28:02,991  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:28:03,047  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:28:04,189 FATAL [main] ActitimeStepDefinitions:102 - Failed to create user :(
+2023-11-04 18:31:10,532  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:31:10,692  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:31:10,869  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:31:10,923  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:31:12,069 FATAL [main] ActitimeStepDefinitions:102 - Failed to create user :(
+2023-11-04 18:35:21,369  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:35:21,503  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:35:21,671  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:35:21,720  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:35:22,853  INFO [main] ActitimeStepDefinitions:100 - User created successfully with first name Fathima and last name Azma
+2023-11-04 18:36:55,128  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:36:55,265  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:36:55,430  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:36:55,480  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:36:56,641 FATAL [main] ActitimeStepDefinitions:102 - Failed to create user :(
+2023-11-04 18:38:15,675  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:38:15,813  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:38:15,978  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:38:16,030  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:38:17,175  INFO [main] ActitimeStepDefinitions:100 - User created successfully with first name Fathima and last name Azma
+2023-11-04 18:40:24,398  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:40:24,595  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:40:24,780  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:40:24,843  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:40:26,004  INFO [main] ActitimeStepDefinitions:100 - User Fathima Azma created successfully
+2023-11-04 18:52:26,442  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:52:26,577  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:52:26,719  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:52:26,769  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:52:27,931  INFO [main] ActitimeStepDefinitions:100 - User Fathima Azma created successfully
+2023-11-04 18:53:39,243  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:53:39,375  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:53:39,541  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:53:39,589  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:53:40,736  INFO [main] ActitimeStepDefinitions:100 - User Fathima Azma created successfully
+2023-11-04 18:56:20,216  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 18:56:20,352  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 18:56:20,511  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 18:56:20,565  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 18:56:21,690  INFO [main] ActitimeStepDefinitions:100 - User Fathima Azma created successfully
+2023-11-04 19:09:42,113  INFO [main] UsersPage:49 - First name entered as Fathima
+2023-11-04 19:09:42,276  INFO [main] UsersPage:56 - First name entered as Azma
+2023-11-04 19:09:42,440  INFO [main] UsersPage:63 - Email entered as imtiaz.azma@gmail.com
+2023-11-04 19:09:42,490  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 19:09:43,651  INFO [main] ActitimeStepDefinitions:100 - User Fathima Azma created successfully
